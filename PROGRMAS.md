@@ -3,10 +3,10 @@
 
 ⸻
 
-🖥️ Shapr3d
-For 3d Modeling i yoused Shapr3d
-<a href="https://www.shapr3d.com/" download>
-    <button>⬇ Download Shapr3d</button>
+🖥️  FreeCAD
+For 3d Modeling i yoused FreeCAD
+<a href="https://www.freecad.org/downloads.php?lang=de" download>
+    <button>⬇ Download FreeCAD</button>
 </a>
 
 
