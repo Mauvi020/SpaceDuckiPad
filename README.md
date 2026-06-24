@@ -2,27 +2,18 @@
 
 A compact macro pad powered by an ESP32-S3.
 
-✨ Features
-
-* ESP32-S3 powered
-* 9 mechanical MX switches
-* Rotary encoder
-* 1.3” LCD display
-* Custom 3D printed case
-* Optional 3D printed keycaps
-
 ⸻
 
 🔧 Components
 
-Component	Quantity
-ESP32-S3	1
-Encoder	1
-1.3” LCD Display	1
-MX Switches	9
-30AWG Wire / Jumper Wire	As needed
-3D Printed Case	1
-Keycaps (optional)	9
+1. ESP32 s3 
+2. Encoder
+3. 1,3 inch lcd display
+4. 9x MX switches 
+5. jumper or 30awg wier
+6. case (3d printed)
+7. key caps (3d printed optional)
+
 
 ⸻
 
