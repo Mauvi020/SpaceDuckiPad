@@ -1,10 +1,10 @@
-🚀 SpaceDuckiPad
+# 🚀 SpaceDuckiPad
 
 A compact macro pad powered by an ESP32-S3.
 
 ⸻
 
-🔧 Components
+# 🔧 Components
 
 1. ESP32 s3 
 2. Encoder
@@ -17,7 +17,7 @@ A compact macro pad powered by an ESP32-S3.
 
 ⸻
 
-📸 Build
+# 📸 Build
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ Created by Mauvi020.
 
 ⸻
 
-🌍 Links
+# 🌍 Links
 
 * Website: https://spaceducki.de
 * Info: https://info.mauvi.de
@@ -40,7 +40,7 @@ Created by Mauvi020.
 
 ⸻
 
-📧 Contact
+# 📧 Contact
 
 support.mauvi@gmail.de
 
