@@ -2,7 +2,7 @@
 
 MackroPad powerd by esp32 s3 
 
-components:
+# Components
 1. ESP32 s3 
 2. Encoder
 3. 1,3 inch lcd display
@@ -12,7 +12,7 @@ components:
 7. key caps (3d printed optional)
 
 
-
+# Info
 
 
 by Mauvi020
