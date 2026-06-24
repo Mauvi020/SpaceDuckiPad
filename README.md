@@ -35,12 +35,12 @@ A compact macro pad powered by an ESP32-S3.
 * Info: https://info.mauvi.de
 * Support: https://ko-fi.com/mauvi020
 
-⸻
+
 
 # 📧 Contact
 
 support.mauvi@gmail.de
 
-⸻
+
 
 Made with 💙 by Mauvi020
