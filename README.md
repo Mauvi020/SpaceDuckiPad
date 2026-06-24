@@ -28,12 +28,12 @@ Keycaps (optional)	9
 
 📸 Build
 
-<p align="center">
-  <img src="images/IMG_0119.jpeg" width="300" />
-  <img src="images/IMG_0078.jpeg" width="300" />
-</p>
-
-
+<table>
+<tr>
+<td><img src="images/IMG_0119.jpeg" width="300"></td>
+<td><img src="images/IMG_0078.jpeg" width="300"></td>
+</tr>
+</table>
 
 ⸻
 
