@@ -11,13 +11,21 @@ The case consists of a main enclosure and a removable bottom plate. All componen
 🖥️ ST7735 TFT Display
 
 Display Pin	ESP32-S3 Pin
+
 VCC	3V3
+
 GND	GND
+
 SCL	GPIO12
+
 SDA	GPIO11
+
 CS	GPIO10
+
 DC	GPIO14
+
 RES	GPIO21
+
 BLK	3V3
 
 ⸻
@@ -25,10 +33,15 @@ BLK	3V3
 🎛️ KY-040 Rotary Encoder
 
 Encoder Pin	ESP32-S3 Pin
+
 VCC	3V3
+
 GND	GND
+
 CLK	GPIO4
+
 DT	GPIO5
+
 SW	GPIO6
 
 ⸻
@@ -38,14 +51,23 @@ SW	GPIO6
 Connect one side of each switch to the GPIO pin and the other side to GND.
 
 Button	GPIO
+
 1	GPIO1
+
 2	GPIO2
+
 3	GPIO3
+
 4	GPIO7
+
 5	GPIO15
+
 6	GPIO16
+
 7	GPIO17
+
 8	GPIO18
+
 9	GPIO40
 
 💡 All button GND pins can be connected together and routed to a single GND pin on the ESP32-S3.
