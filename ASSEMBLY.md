@@ -93,6 +93,12 @@ Firmware
 
 ⸻
 
+[Open Programs List](PROGRMAS.md)
+
+[Back to Readme](README.md)
+
+⸻
+
 # 📧 Contact
 
 support.mauvi@gmail.de
