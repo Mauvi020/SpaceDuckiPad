@@ -16,9 +16,9 @@ MackroPad powerd by esp32 s3
 
 # Info
 
-<p float="left">
+<p>
   <img src="images/IMG_0119.jpeg" width="100"/>
-  <img src="images/IMG_0119.jpeg" width="100" />
+  <img src="images/IMG_0119.jpeg" width="100"/>
 </p>
 
 
