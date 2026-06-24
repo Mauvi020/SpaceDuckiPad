@@ -28,10 +28,6 @@ A compact macro pad powered by an ESP32-S3.
 
 ⸻
 
-🛰️ About
-
-SpaceDuckiPad is a small programmable macro pad designed for productivity, shortcuts, media control and custom workflows.
-
 Created by Mauvi020.
 
 ⸻
