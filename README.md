@@ -13,8 +13,8 @@ MackroPad powerd by esp32 s3
 
 # Sketches
 <p>
-  <img src="images/IMG_0119.jpeg" width="100"/>
-  <img src="images/IMG_0078.jpeg" width="100"/>
+  <img src="images/IMG_0119.jpeg" width="200"/>
+  <img src="images/IMG_0078.jpeg" width="400"/>
 </p>
 
 # Info
